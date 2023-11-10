@@ -1,4 +1,6 @@
 Data Professional Survey Analysis
+
+
 Overview
 This repository contains the Power BI project for analyzing the Data Professionals Survey. The goal of this project is to provide insights into the career landscape of data professionals by exploring correlations among salary, job role, happiness, and geographic location.
 
